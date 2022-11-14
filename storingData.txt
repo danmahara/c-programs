@@ -1,0 +1,4 @@
+Name = dan Mahara
+Your id =50 
+Your address is =Kathmandu
+Your salary is =50000
