@@ -2,15 +2,23 @@
 
 void  choice(){
 char unhappyLife;
-if(unhappyLife==1){
-    printf("sucide");
+int a;
+printf("Enter your life update:\n");
+printf("If life is happy press 1 if not happy press 0:\n");
+scanf("%d",&a);
 }
 
-else if(unhappyLife!=1)
-return -1;
-}
+if(a==0&&a!=1){
+    printf("sucide");
+
+}   
+else 
+
+    return 0;
+
 
 int main(){
+
 
 
      choice () ;
