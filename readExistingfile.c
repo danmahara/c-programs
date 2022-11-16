@@ -17,7 +17,7 @@ else {
     if(c==EOF) {
         break;
     }
-    printf("%s",c);
+    printf("%c",c);
 }
 
 }
