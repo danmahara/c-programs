@@ -33,5 +33,7 @@ printf("Your all random numbers are here:\n");
 for(i=0;i<=a;i++)
 printf("%d \n",b[i]);
 
+
+
     return 0;
 }
