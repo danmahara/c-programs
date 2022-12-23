@@ -3,13 +3,14 @@
 #include <string.h>
 int main()
 {
-
-    int n = 12345;
-
-    printf("%d \n", n);
-    printf("%6d\n", n);
-    printf("%2d\n", n);
-    printf("%-6d\n", n);
-
+int i,j;
+for ( i = 0; i < 10; i++)
+{
+   for ( j = 0; j<i ; j++)
+   {
+    printf("*");
+   }
+   printf("\n");
+}
     return 0;
 }
