@@ -10,5 +10,4 @@ void main()
     x = y;
     y = temp;
     printf("After swapping is x = %d and y = %d\n\n", x, y);
-    getch();
 }
